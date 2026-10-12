@@ -4,6 +4,5 @@
     "author": "VILIK",
     "version": "1.0.0",
     "description": "Press I to open a catalog of materials, sorted by name. Clicking one adds a full stack to the inventory. Press I again or Escape to close.",
-    "thumbnail": "thumbnail.jpg",
-    "videos": []
+    "thumbnail": "thumbnail.jpg"
 }
