@@ -3,5 +3,5 @@
     "name": "Item menu",
     "author": "VILIK",
     "version": "1.0.0",
-    "description": "Press I to open a catalog of materials. Clicking one adds a stack to the inventory."
+    "description": "Press I to open a catalog of materials, sorted by name. Clicking one adds a full stack to the inventory. Press I again or Escape to close."
 }
