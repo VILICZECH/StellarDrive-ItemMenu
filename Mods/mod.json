@@ -1,0 +1,7 @@
+{
+    "id": "ItemMenu",
+    "name": "Item menu",
+    "author": "VILIK",
+    "version": "1.0.0",
+    "description": "Press I to open a catalog of materials. Clicking one adds a stack to the inventory."
+}
