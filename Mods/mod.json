@@ -3,7 +3,7 @@
     "name": "Item menu",
     "author": "VILIK",
     "version": "1.0.0",
-    "description": "Press I to open a catalog of materials, sorted by name. Clicking one adds a full stack to the inventory. Press I again or Escape to close.",
+    "description": "Need materials right now? Get any of them with a single click.\n\n• Press I to open a catalog of every material in the game, sorted by name\n• Click a material to put a full stack straight into your inventory\n• Press I again or Escape to close\n\nPerfect for testing builds or skipping the grind.",
     "thumbnail": "thumbnail.jpg",
     "videos": []
 }
